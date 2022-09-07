@@ -9,10 +9,10 @@
 
 ## About Project
 Projek sederhana menggunakan laravel, terdapat fungsi CRUD sebagai berikut:
-*Create: Menulis post dan register akun
-*Read: Membaca post yang sudah ditulis
-*Update: Mengedit post dan akun (Hanya untuk admin)
-*Delete: Menghapus post dan akun (Hanya untuk admin)
+* Create: Menulis post dan register akun
+* Read: Membaca post yang sudah ditulis
+* Update: Mengedit post dan akun (Hanya untuk admin)
+* Delete: Menghapus post dan akun (Hanya untuk admin)
 
 ## About Laravel
 
